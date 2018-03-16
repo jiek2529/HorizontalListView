@@ -25,5 +25,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="click_add"
-        android:text="action" />
+        android:text="add 2 items" />
 </LinearLayout>
